@@ -1,0 +1,12 @@
+No me extraña que estas marcas conocidas se hayan hecho de oro a costa de los clientes.
+"Heredé" este PC de otra persona. Cuando llegó a mis manos, el equipo no funcionaba correctamente; fallaban la mitad de los programas, no reconocía los puertos USB,...etc.
+
+Decidí formatearlo e instalar Windows desde cero; craso error.
+
+Una vez instalado el sistema operativo, visité la web de hp para descargar todos los drivers, pero mi sorpresa fue que únicamente existían drivers para Windows XP Home, el sistema original de la máquina. Osea que si tu instalas otro sistema, no te funciona casi nada. 
+
+Como yo no tenía el disco de recuperación de Hp, volví a formatear de nuevo instalando un XP Home y los drivers disponibles en la web. Pero muchas cosas seguían sin funcionar (los lectores de tarjetas, USB,...) porque no los reconocía.
+
+Harto de tanta pega, decidí llamar al servicio de soporte de la marca explicando el problema. Su respuesta fue que para que el pc reconociese todos los dispositivos, había que instalarlo desde el disco de recuperación de la marca, que no servía un Windows XP Home estándar. Y como yo no lo tenía, la solución era que me enviaran el cd a mi domicilio, con un coste de 40€ más IVA y gastos de envío.
+
+En resumen, el timo de la estampita. Y más teniendo en cuenta que los pcs de marca son bastante más caros que los clónicos con las mismas prestaciones o superiores. Y encima no puedes usar el sistema operativo que quieres. 

@@ -1,0 +1,35 @@
+Cuando Intel desbancó a IBM en el liderazgo de microprocesadores, la marca sufrió una progresiva reestructuración interna que originó una serie de cambios en su estrategia comercial.
+Su anterior monopolio quedaba ya en el olvido. Los IBM de ahora no son los de antes. ¿Quién sigue pensando aún que IBM es una marca cara?. No. Ya no. Ahora podemos gozar de todas las ventajas que ofrece una marca así, tales como:
+-- Confiabilidad
+
+-- Soporte online de primer nivel (FAQs, drivers actualizados periodicamente y manuales en su WebSite)
+
+-- Fiabilidad
+
+-- Garantía
+
+-- Seguridad
+A un precio "stándar" muy competitivo y equiparable al del resto de marcas del sector.
+Ahora IBM intenta establecer otro monopolio en el mundo de los SERVIDORES, como es el caso de este producto.
+Esta potente máquina viene equipada con un Giga de RAM, y un procesador Intel Xeon de última generación, a una frecuencia de 3200 Mhz. Es de alto rendimiento, y como hemos dicho está basado en procesadores Intel Xeon de dos vías, diseñados para ofrecer alta disponibilidad y reducir costes. Chasis compacto de 1U ofrece un rendimiento excepcional con dos vías y alta disponibilidad y soporte la tecnología Intel Extended Memory 64 para un mejor rendimiento.
+Biene equipado con un disco duro de 70 GBytes.
+Sus características técnicas detalladas son las siguientes:
+CARACTERISTICAS TECNICAS 
+ Descripción del producto: IBM eserver xSeries 336 8837 - Xeon 3 GHz 
+ Tipo: Servidor 
+ Factor de forma: Montaje en bastidor - 1 U 
+ Dimensiones (Ancho x Profundidad x Altura): 43.9 cm x 68.6 cm x 4.3 cm 
+ Procesador: 1 x Intel Xeon 3 GHz 
+ Características principales del procesado: Intel Extended Memory 64 Technology 
+ Memoria caché: 2 MB L2 
+ Caché por procesador: 2 MB 
+ Memoria RAM: 512 MB (instalados) / 16 GB (máx.) - DDR II SDRAM - ECC - 400 MHz - PC2-3200 
+ Controlador de almacenamiento: Serial ATA ( Serial ATA-150 ) 
+ Disco duro: Ninguno/a 
+ Almacenamiento óptico: DVD-ROM 
+ Monitor: Ninguno 
+ Controlador gráfico: PCI - ATI RADEON 7000M - 16 MB 
+ Conexión de redes: Adaptador de red - Ethernet, Fast Ethernet, Gigabit Ethernet 
+ Alimentación CA: 110/230 V ( 50/60 Hz ) 
+En resumen, tenemos aquí el producto ideal para estaciones de alto rendimiento, donde vamos a explotar al máximo toda la capacidad de esta máquina. Fuera de este ámbito, nó tiene aplicación alguna, pués estaríamos "matando moscas a cañonazos".
+Saludos. 
