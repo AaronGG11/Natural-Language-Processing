@@ -1,0 +1,9 @@
+e parezca que lo más sorprendente de este ordenador es su diseño que recuerda a los primitivos Commodore, Spectrum, Amstrad, etc, para mi lo que más me ha resultado atrayente es el precio porque es realmente increíble, ya que solo costó 120 euros. 
+Claro está que por este precio no se puede pedir demasiado, ni la décima parte de lo que tiene este ordenador Prodigios Intel Celeron, a pesar de que cuenta con un disco duro de 4,3 gigabytes y la velocidad del procesador es de 300 megaherzios. De todas formas, la memoria RAM es de tan solo 64 megabytes.
+En los tiempos actuales es muy novedoso el que tenga integrado en el mismo monitor elementos como el propio disco duro, el teléfono, los altavoces, y el manos libres. No deja de ser una creación sensacional de la misma empresa que diseñó los modelos de Apple, de ahí su estilo tan original. El monitor es de 14 pulgadas.
+El modem que lleva incorporado es de 56 kilobytes por segundo, cantidad más que de sobra porque en España a excepción de DSL o similares la velocidad no supera los 33 kilobytes por segundo. La tarjeta gráfica es bastante aceptable porque alcanza los 1024 x 768 pixeles de resolución y la parte gráfica soporta tando 2D como 3D. Por lo referente al sonido es estéreo y los dos altavoces son de 5W cada uno, potencia aceptable para un local de medianas dimensiones.
+Los puntos de conexiones que tiene son: tres puertos USB, conector RJ45, entrada de línea telefónica y salida de altavoces.
+Lo recomiendo principalmente para usuarios domésticos que no precisen gran cantidad de memoria ni un disco duro de capacidad excesiva. Igualmente lo veo aceptable para la pequeña empresa, o como módulo satélite de una red de Intranet.
+
+
+ 
