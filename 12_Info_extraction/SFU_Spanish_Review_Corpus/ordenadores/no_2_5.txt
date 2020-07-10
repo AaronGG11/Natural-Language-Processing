@@ -1,0 +1,13 @@
+En junio me compré un ordenador de sobremesa de esta marca por una oferta en Hipercor / El Corte Inglés (799 euros - luego vi que se vendía por menos que eso en otros sitios). Venía con una pantalla de 19" apaisada muy buena. Quería sustituir mi Dell que tantos disgustos me había dado, y parecía que había encontrado un buen ordenador, pues la velocidad es alta y hace poco ruido por ahora. 
+
+Pero la alegría no duró mucho tiempo, pues tras instalar varios programas empezaron a aparecer los primeros fallos por la incompatibilidad de Windows Vista con dichos programas, y no sólo eso: especialmente ¡no parecía ser compatible con Explorer, que es parte de Windows! A las dos semanas los fallos aumentaron, de nada servía desinstalar algún que otro programa o de reinstalarlos, pues contínuamente aparecieron pantallas azules de fallo de sistema, reinicios automáticos, avisos de que de repente la copia de Windows no era original, solicitando código de licencia, al cual no reconocía, pidiendo códigos de validación de Microsoft, que tampoco reconocía, y al final y tras intentarlo con restauración de sistema y reinstalar el sistema, se quedó colgado en el reinicio sin poder entrar ya en ningún programa.  Hay que decir también que el ordenador no viene con el CD del sistema operativo, sino éste está preinstalado.
+
+Tras la reparación, que tardó unas semanas, indicaron que hubo que cambiar la placa base y el módulo de memoria. No me suministraron el CD del sistema operativo.
+
+Ahora parece que funciona, espero que siga así. Una desilusión grande, porque confiaba en la marca Acer de la que no he oído nada malo hasta ahora. Evidentgemente no era sólo por culpa del Windows Vista, que pienso sustituir por XP, ya que gente más experta me ha dicho que Vista plantea muchísimos problemas de incompatibilidades, y así no se puede trabajar con el ordenador.
+
+Al final, las ofertas se pagan caras, me parece, más me valdría haber comprado un Hewlett-Packard por 1000 euros, seguramente no daría esos problemas. 
+
+Cierto es también que este ordenador no viene con altavoces, los tuve que comprar aparte. Windows Vista no es compatible con mi router de Telefónica, problema que solucioné con el Apple Airport Base Station a través del cual puedo conectar todos mis ordenadores Mac y PC sin que importe el sistema operativo. Lo que sí me consuela uin poco es la pantalla apaisada de Acer, mucho mejor que la que tengo de Dell. Y por si acaso compré también un disco duro externo, pues visto lo visto, uno no se puede fiar y hay que salvar todo en una copia externa.
+
+Actualizaré mi opinión cuando sepa más sobre el comportamiento de este ordenador. Mientras tanto no lo recomendaré.   
